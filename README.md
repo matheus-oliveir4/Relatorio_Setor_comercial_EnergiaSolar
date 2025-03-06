@@ -15,3 +15,6 @@ Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegaçã
 <img src="https://github.com/matheus-oliveir4/Relatorios_Empresa_Pulse/blob/main/Pagina02.png" width= 800px> <br>
 *Analises Comparativas entre os periodos* <br>
  <img src="https://github.com/matheus-oliveir4/Relatorios_Empresa_Pulse/blob/main/Pagina03.png" width= 800px> <br>
+
+Segue o linlk do Drive com o video para uma melhor experiência:
+[Clique Aqui](https://drive.google.com/drive/folders/1ocbAAoBPPHFXYbv6WStm87lzdKeBrus3?usp=sharing)
