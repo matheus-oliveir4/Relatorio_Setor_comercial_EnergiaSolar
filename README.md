@@ -1,5 +1,5 @@
 # Relatorios_Empresa_Pulse
-*Relatório voltado para o setor comercial de uma empresa pioneira no setor de energia solar do estado do Ceará*. <br>
+*Relatório voltado para o setor comercial no ramo de energia solar do estado do Ceará*. <br>
 - Pontos Aborddados no Relatorio: <br>
 - Indicadores de faturamento <br>
 - Potência comercializado <br>
@@ -7,7 +7,7 @@
 - Analises Horizontais e verticais acerca do faturamento e potência comercializados. <br>
 - Estados em que a empresa já prestou seuss serviços
 Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegação, uso de parametros para analises de medidas especificas entre outras atribuições do Power BI. <br>
-**Observação: Os dados foram alterados para dados ficticios para mander a intregidade das informações da empresa** <br>
+**Observação: Os dados fictícios foram usados.** <br>
 
 *Gestão Geral* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorios_Empresa_Pulse/blob/main/Pagina01.png" width= 800px>
