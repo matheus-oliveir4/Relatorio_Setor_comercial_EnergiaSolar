@@ -7,7 +7,7 @@
 - Analises Horizontais e verticais acerca do faturamento e potência comercializados. <br>
 - Estados em que a empresa já prestou seuss serviços
 Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegação, uso de parametros para analises de medidas especificas entre outras atribuições do Power BI. <br>
-**Observação: Foram usados ados fictícios .** <br>
+**Observação: Foram usados dados fictícios .** <br>
 
 *Gestão Geral* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorios_Empresa_Pulse/blob/main/Pagina01.png" width= 800px>
