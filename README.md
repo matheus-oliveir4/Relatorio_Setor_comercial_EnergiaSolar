@@ -11,7 +11,6 @@ Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegaçã
 
 *Gestão Geral* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorio_Setor_comercial_EnergiaSolar/blob/main/01_Gestao_anual.png" width= 750px>
-<img src="https://github.com/matheus-oliveir4/Relatorio_Setor_comercial_EnergiaSolar/blob/main/Medidas01.png" width= 102.7px>
  <br>*Gestão Mensal* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorio_Setor_comercial_EnergiaSolar/blob/main/02_gestao_mensal.png" width= 750px> <br>
 *Analise do desempenho dos vendedores em relação a meta de 2024* <br>
