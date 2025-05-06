@@ -7,7 +7,8 @@
 - Analises Horizontais e verticais acerca do faturamento e potência comercializados. <br>
 - Estados em que a empresa já prestou seuss serviços
 Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegação, uso de parametros para analises de medidas especificas entre outras atribuições do Power BI. <br>
-**Observação: Dados alterados.** <br>
+**Observação: Dados mascarados para manter a integridade da empresa .** <br>
+
 
 *Gestão Geral* <br>
 <img src="https://github.com/matheus-oliveir4/Relatorio_Setor_comercial_EnergiaSolar/blob/main/01_Gestao_anual.png" width= 750px>
