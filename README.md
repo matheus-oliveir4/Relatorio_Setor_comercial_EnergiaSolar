@@ -10,13 +10,13 @@ Nesse relatorio fiz uso de formulas Dax, dicas de ferramenta, abas de navegaçã
 **Observação: Dados alterados.** <br>
 
 *Gestão Geral* <br>
-<img src="https://github.com/matheus-oliveir4/Relatorios_Empresa_Pulse/blob/main/Pagina01.png" width= 800px>
+<img src="" width= 800px>
 <img src="https://github.com/matheus-oliveir4/Relatorios_Empresa_Pulse/blob/main/Medidas01.png" width= 112.7px>
 <br>
 *Analise do desempenho dos vendedores em relação a meta de 2024* <br>
-<img src="https://github.com/matheus-oliveir4/Relatorios_Empresa_Pulse/blob/main/Pagina02.png" width= 800px> <br>
+<img src="" width= 800px> <br>
 *Analises Comparativas entre os periodos* <br>
- <img src="https://github.com/matheus-oliveir4/Relatorios_Empresa_Pulse/blob/main/Pagina03.png" width= 800px> <br>
+ <img src="" width= 800px> <br>
 
 Segue o linlk do Drive com o video para uma melhor experiência:
 [Clique Aqui](https://drive.google.com/drive/folders/1ocbAAoBPPHFXYbv6WStm87lzdKeBrus3?usp=sharing)
